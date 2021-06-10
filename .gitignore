@@ -130,3 +130,6 @@ dmypy.json
 
 # others
 config.py
+Pipfile
+Pipfile.lock
+.vscode/settings.json
